@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>個人情報漏洩ニュースまとめ</title>
+<style>
+:root{--bg:#F1F3F2;--surface:#fff;--ink:#1E2A32;--mute:#5A6872;--line:#D9DFE2;--pii:#2F6FB5;--card:#C9741F;--tokutei:#B23A6B;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--bg:#12181C;--surface:#1B242A;--ink:#E8EEF1;--mute:#9AA9B3;--line:#2A363D;--pii:#6FA8F0;--card:#F0A25A;--tokutei:#E57AA6;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;line-height:1.7}
+main{max-width:640px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:1.5rem;font-weight:900;margin:8px 0 2px}
+.meta{color:var(--mute);font-size:.85rem;margin:0 0 14px}
+.badge{display:inline-block;padding:0 8px;border:1px solid var(--line);border-radius:99px;font-size:.78rem}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px}
+.seg{display:flex;border:1px solid var(--line);border-radius:99px;overflow:hidden}
+.seg button,.nav button{font:inherit;font-size:.88rem;border:0;background:var(--surface);color:var(--mute);padding:6px 14px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);font-weight:700}
+.nav{display:flex;align-items:center;gap:6px;font-size:.9rem}
+.nav button{border:1px solid var(--line);border-radius:8px;padding:4px 10px}
+.nav button:disabled{opacity:.35;cursor:default}
+.bar [hidden],.tabs[hidden]{display:none}
+.tabs{display:flex;gap:6px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding:8px 0;z-index:5}
+.tab{flex:1;font:inherit;font-weight:700;font-size:.82rem;line-height:1.3;padding:8px 2px;border:1px solid var(--line);background:color-mix(in srgb,var(--c) 18%,var(--surface));color:var(--ink);border-radius:10px;cursor:pointer}
+.tab .n{display:block;font-weight:400;font-size:.8rem}
+.tab[aria-selected="true"]{background:color-mix(in srgb,var(--c) 32%,var(--surface));border-color:var(--c);box-shadow:inset 0 -3px 0 var(--c)}
+button:focus-visible,a:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.lead{color:var(--mute);font-size:.88rem;margin:10px 0 14px}
+article{display:flex;gap:12px;background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--c);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+.thumb{flex:none;position:relative;overflow:hidden;width:72px;height:72px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:1.7rem;background:color-mix(in srgb,var(--c) 22%,var(--surface))}
+.thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.body{flex:1;min-width:0}
+h2{font-size:1rem;font-weight:700;line-height:1.5;margin:0 0 6px}
+h2 a{color:inherit;text-decoration:none}
+article p{margin:0 0 8px;font-size:.88rem}
+.tags{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:6px}
+.tag{font-size:.72rem;padding:0 8px;border-radius:99px;border:1px solid var(--t);color:var(--ink);background:color-mix(in srgb,var(--t) 16%,var(--surface))}
+.src{display:flex;justify-content:space-between;gap:8px;font-size:.8rem;color:var(--mute)}
+.others{font-size:.78rem;color:var(--mute);margin-top:4px}
+.others a{color:var(--ink)}
+.empty{color:var(--mute);padding:24px 0}
+.note{margin-top:24px;font-size:.78rem;color:var(--mute)}
+</style>
+</head>
+<body>
+<main>
+<h1>個人情報漏洩ニュースまとめ</h1>
+<p class="meta"><span class="badge">毎朝8:00更新</span></p>
+<div class="bar"><div class="seg" id="seg"><button data-p="day" aria-pressed="true">日別</button><button data-p="week" aria-pressed="false">週間</button><button data-p="month" aria-pressed="false">月間</button></div><div class="nav" id="nav"><button id="prev" aria-label="前の日">◀</button><span id="date"></span><button id="next" aria-label="次の日">▶</button></div></div>
+<div class="tabs" role="tablist" id="tabs"></div>
+<p class="lead" id="lead"></p>
+<section id="list" aria-live="polite"></section>
+<p class="note">キーワードによる自動分類のため、誤りや見落としがあります。詳しくは必ず元の報道をご確認ください。サムネイルは各報道の画像、またはアイコンです。</p>
+</main>
+<script>
+var CATS=[
+{id:"pii",label:"👤個人情報",icon:"👤",tag:"個人情報",color:"var(--pii)",lead:"氏名・住所・電話番号などの漏洩のニュース"},
+{id:"card",label:"💳カード情報",icon:"💳",tag:"カード情報",color:"var(--card)",lead:"クレジットカードなどのカード情報の漏洩のニュース"},
+{id:"tokutei",label:"🪪特定個人情報",icon:"🪪",tag:"特定個人情報",color:"var(--tokutei)",lead:"マイナンバーを含む特定個人情報の漏洩のニュース"}];
+var dates=[],cache={},per="day",pos=0,cur="pii",tabs=document.getElementById("tabs");
+function cat(id){return CATS.filter(function(c){return c.id===id})[0]}
+function esc(x){return String(x).replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function safe(u){return /^https?:\/\//.test(u||"")?u:"#"}
+function load(d){return cache[d]?Promise.resolve(cache[d]):fetch("data/"+d+".json").then(function(r){return r.json()}).then(function(x){return cache[d]=x})}
+function card(g,i,rank,main){
+var c=cat(main);
+var tags=g.categories.map(function(k){var t=cat(k);return '<span class="tag" style="--t:'+t.color+'">'+t.tag+'</span>'}).join("");
+var o=(g.others||[]).map(function(x){return '<a href="'+safe(x.link)+'" target="_blank" rel="noopener">'+esc(x.source)+'</a>'}).join(" / ");
+var img=/^https?:\/\//.test(g.image||"")?'<img src="'+esc(g.image)+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':"";
+return '<article style="--c:'+c.color+'"><div class="thumb">'+(g.kind==="video"?"🎬":c.icon)+img+'</div><div class="body"><h2>'+(rank?(i+1)+'位 ':'')+'<a href="'+safe(g.link)+'" target="_blank" rel="noopener">'+esc(g.title)+'</a></h2><div class="tags">'+tags+'</div><p>'+esc(g.summary||"")+'</p><div class="src"><span>'+esc(g.source)+(g.kind==="video"?"(動画)":"")+'</span><strong>'+g.count+'媒体が報道</strong></div>'+(o?'<div class="others">ほかの報道: '+o+'</div>':'')+'</div></article>'}
+function render(){
+Array.prototype.forEach.call(document.querySelectorAll("#seg button"),function(b){b.setAttribute("aria-pressed",b.dataset.p===per)});
+var list=document.getElementById("list"),isDay=per==="day";
+tabs.hidden=!isDay;document.getElementById("nav").hidden=!isDay;
+if(!dates.length){list.innerHTML='<p class="empty">まだデータがありません。毎朝8時の更新のあとに表示されます。</p>';return}
+if(isDay){
+var d=dates[pos];document.getElementById("date").textContent=d;
+document.getElementById("prev").disabled=pos>=dates.length-1;document.getElementById("next").disabled=pos===0;
+load(d).then(function(day){
+var gs=day.groups;
+tabs.innerHTML=CATS.map(function(c){var n=gs.filter(function(g){return g.categories.indexOf(c.id)>=0}).length;return '<button class="tab" role="tab" style="--c:'+c.color+'" aria-selected="'+(c.id===cur)+'" data-id="'+c.id+'">'+c.label+'<span class="n">'+n+'件</span></button>'}).join("");
+document.getElementById("lead").textContent=cat(cur).lead;
+var f=gs.filter(function(g){return g.categories.indexOf(cur)>=0});
+list.innerHTML=f.length?f.map(function(g,i){return card(g,i,false,cur)}).join(""):'<p class="empty">この区分のニュースはありません。</p>'})
+}else{
+var n=per==="week"?7:30;
+document.getElementById("lead").textContent="全区分を、報じた媒体数の多い順に表示します(直近"+n+"日)";
+Promise.all(dates.slice(0,n).map(load)).then(function(days){
+var all=[];days.forEach(function(day){day.groups.forEach(function(g){all.push({g:g,d:day.date})})});
+all.sort(function(a,b){return b.g.count-a.g.count||(a.d<b.d?1:-1)});
+list.innerHTML=all.slice(0,30).map(function(x,i){return card(x.g,i,true,x.g.categories[0]||"pii")}).join("")})}}
+tabs.addEventListener("click",function(e){var b=e.target.closest(".tab");if(b){cur=b.dataset.id;render()}});
+document.getElementById("seg").addEventListener("click",function(e){var b=e.target.closest("button");if(b){per=b.dataset.p;render()}});
+document.getElementById("prev").onclick=function(){if(pos<dates.length-1){pos++;render()}};
+document.getElementById("next").onclick=function(){if(pos>0){pos--;render()}};
+fetch("data/index.json").then(function(r){return r.json()}).then(function(x){dates=x;render()}).catch(function(){render()});
+</script>
+</body>
+</html>
