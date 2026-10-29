@@ -36,7 +36,7 @@
    "categories": [
     "pii"
    ],
-   "image": "https://imgopt.asahi.com/ogp/AS20261029004333_comm.jpg",
+   "image": "https://imgopt.asahi.com/ogp/AS20261029004330_comm.jpg",
    "count": 1,
    "others": []
   },
@@ -156,6 +156,47 @@
     "pii"
    ],
    "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/032/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【政治ライブ】“比例代表で31議席削減”自民・維新・国民が正式な合意書 ── 政治ニュースまとめ （日テレNEWS LIVE）",
+   "summary": "◇政治に関するニュースについてまとめました\n\n【ラインアップ】\n・モンゴル自然保護区の大規模火災受け　木原官房長官「被害の大きさ深刻に受け止め」\n・議員定数31議席削減案　自民党内で議論　維新の会合では結論持ち越しに\n・議員定数31議席削減",
+   "link": "https://www.youtube.com/watch?v=MMycH8s2h2Q",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/MMycH8s2h2Q/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【サイバー攻撃】GMO会長兼社長「犯人特定につながる有力情報入手」　警察などに情報提出へ ― 社会ニュースライブ（日テレNEWS LIVE）",
+   "summary": "◇サイバー攻撃に関するニュースについてまとめました\n\n【ラインアップ】\n・GMO「能動的サイバー防御」政府に要請　不正取引による損失は補償の方針\n・GMO不正アクセス　“攻撃者”が約80億円要求　熊谷CEO“要求に応じず”\n・【集団訴訟へ】",
+   "link": "https://www.youtube.com/watch?v=ubesjOcnBc0",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i2.ytimg.com/vi/ubesjOcnBc0/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
+   "summary": "10月29日（木）の夕方から放送された最新のニュースをダイジェストでお届けします。\n\n・GMO不正アクセスで「犯人につながる有力情報を入手」\n・フィギュア通販でカード情報が…16ケタのカード番号　コードも流出\n・少なくとも68人が死亡　スペ",
+   "link": "https://www.youtube.com/watch?v=Slvmk32KFpY",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i4.ytimg.com/vi/Slvmk32KFpY/hqdefault.jpg",
    "count": 1,
    "others": []
   }

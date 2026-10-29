@@ -41,27 +41,27 @@
  },
  {
   "name": "ANNnewsCH",
-  "ok": false,
-  "error": "チャンネルIDが見つかりません"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "日テレNEWS",
-  "ok": false,
-  "error": "チャンネルIDが見つかりません"
+  "ok": true,
+  "items": 2
  },
  {
   "name": "TBS NEWS DIG",
-  "ok": false,
-  "error": "チャンネルIDが見つかりません"
+  "ok": true,
+  "items": 1
  },
  {
   "name": "テレ東BIZ",
-  "ok": false,
-  "error": "チャンネルIDが見つかりません"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "FNNプライムオンライン",
-  "ok": false,
-  "error": "チャンネルIDが見つかりません"
+  "ok": true,
+  "items": 0
  }
 ]
