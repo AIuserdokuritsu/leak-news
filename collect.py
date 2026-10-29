@@ -17,11 +17,11 @@ FEEDS = [
 ]
 # YouTube: (チャンネル名, @ハンドル または UCで始まるチャンネルID)
 YOUTUBE = [
-    ("ANNnewsCH", "@annnewsch"),
-    ("日テレNEWS", "@ntv_news"),
-    ("TBS NEWS DIG", "@tbsnewsdig"),
-    ("テレ東BIZ", "@tvtokyobiz"),
-    ("FNNプライムオンライン", "@fnnnewsch"),
+    ("ANNnewsCH", "UCGCZAYq5Xxojl_tSXcVJhiQ"),
+    ("日テレNEWS", "UCuTAXTexrhetbOe3zgskJBQ"),
+    ("TBS NEWS DIG", "UC6AG81pAkf6Lbi_1VC5NmPA"),
+    ("テレ東BIZ", "UCkKVQ_GNjd8FbAuT6xDcWgg"),
+    ("FNNプライムオンライン", "UCoQBJMzcwmXrRSHBFAlTsIw"),
 ]
 HOURS = 36
 SIMILAR = 0.35
