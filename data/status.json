@@ -7,12 +7,12 @@
  {
   "name": "NHK 社会",
   "ok": true,
-  "items": 1
+  "items": 2
  },
  {
   "name": "朝日新聞",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "毎日新聞",
@@ -37,31 +37,31 @@
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 2
- },
- {
-  "name": "ANNnewsCH",
-  "ok": true,
-  "items": 0
- },
- {
-  "name": "日テレNEWS",
-  "ok": true,
-  "items": 2
- },
- {
-  "name": "TBS NEWS DIG",
-  "ok": true,
   "items": 1
  },
  {
+  "name": "ANNnewsCH",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "name": "日テレNEWS",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
+  "name": "TBS NEWS DIG",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found"
+ },
+ {
   "name": "テレ東BIZ",
-  "ok": true,
-  "items": 0
+  "ok": false,
+  "error": "HTTP Error 404: Not Found"
  },
  {
   "name": "FNNプライムオンライン",
-  "ok": true,
-  "items": 0
+  "ok": false,
+  "error": "HTTP Error 500: Internal Server Error"
  }
 ]
