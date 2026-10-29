@@ -1,0 +1,67 @@
+[
+ {
+  "name": "NHK 主要",
+  "ok": true,
+  "items": 1
+ },
+ {
+  "name": "NHK 社会",
+  "ok": true,
+  "items": 1
+ },
+ {
+  "name": "朝日新聞",
+  "ok": true,
+  "items": 1
+ },
+ {
+  "name": "毎日新聞",
+  "ok": true,
+  "items": 0
+ },
+ {
+  "name": "Yahoo!ニュース 国内",
+  "ok": true,
+  "items": 0
+ },
+ {
+  "name": "Yahoo!ニュース IT",
+  "ok": true,
+  "items": 0
+ },
+ {
+  "name": "ITmedia",
+  "ok": true,
+  "items": 7
+ },
+ {
+  "name": "INTERNET Watch",
+  "ok": true,
+  "items": 2
+ },
+ {
+  "name": "ANNnewsCH",
+  "ok": false,
+  "error": "チャンネルIDが見つかりません"
+ },
+ {
+  "name": "日テレNEWS",
+  "ok": false,
+  "error": "チャンネルIDが見つかりません"
+ },
+ {
+  "name": "TBS NEWS DIG",
+  "ok": false,
+  "error": "チャンネルIDが見つかりません"
+ },
+ {
+  "name": "テレ東BIZ",
+  "ok": false,
+  "error": "チャンネルIDが見つかりません"
+ },
+ {
+  "name": "FNNプライムオンライン",
+  "ok": false,
+  "error": "チャンネルIDが見つかりません"
+ }
+]

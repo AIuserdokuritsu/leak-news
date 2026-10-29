@@ -1,0 +1,163 @@
+{
+ "date": "2026-10-29",
+ "groups": [
+  {
+   "title": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+   "summary": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、会社は、「懸賞金」を設けて行っている情報提供の呼びかけや社内のホワイトハッカーのチームの…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+   "source": "NHK 主要",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "不正アクセスによる個人情報漏えい のべ2億6000万人 政府",
+   "summary": "不正アクセスによる個人情報の漏えいが、ことし4月以降、のべおよそ2億6000万人分にのぼることが政府の個人情報保護委員会のまとめでわかりました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261029de68067",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68067/20261029de68067_E0000003476_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "金融機関から教育、飲食まで被害拡大　韓国でも相次ぐ個人情報流出",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVBY3JL9VBYUHBI011M.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261029004333_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超",
+   "summary": "個人情報保護委員会によると、2026年4月1日から10月16日までに報告された不正アクセスによる個人情報の漏えい、または漏えいの恐れがある事案について、対象者数は延べ約2億6000万人だったという。これは、同年10月1日時点の日本の総人口の",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002730/10010933/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
+   "summary": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002716/10010873/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も",
+   "summary": "全日本空輸（ANA）は10月29日、Amadeusが提供する旅客サービスシステムへの不正アクセスで、一部顧客の個人情報を第三者が参照した形跡があると発表した。同じシステムを使う日本航空も28日、約9万2000人分の予約情報への不正アクセスを",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002722/10010907/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ソニー生命に不正アクセス、個人情報約38.5万件漏えい　氏名や住所、契約内容など",
+   "summary": "氏名、生年月日、性別、住所、電話番号、証券番号、契約内容が流出した。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002717/10010876/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 会員情報最大423万件が漏えい　生花EC事業者に不正アクセス",
+   "summary": "生花の通信配達サービスを手掛ける花キューピットは10月28日、同社のシステムが第三者による不正アクセスを受け、会員情報の一部が漏えいしたと発表した。対象は最大423万8242件で、ユーザーIDやパスワード、メールアドレスなどが含まれる。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002711/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002711/10010857/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ベネフィット・ワンの委託先に不正アクセス　セゾン会員向け優待サービスで約2.9万人分の個人情報漏えい",
+   "summary": "ベネフィット・ワンは10月28日、業務委託先のシステムへの不正アクセスで、クレディセゾン会員向け優待サービス「トク買」の会員2万9465人分の個人情報が漏えいしたと発表した。クレジットカード情報の漏えいはないという。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002707/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002707/10010842/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] バンナム、メアド34万件漏えい　ガンダムグッズ店のポイント会員が対象　ユミルリンクへの不正アクセスが原因",
+   "summary": "漏えいしたのは、メールアドレスと「バンダイナムコID」管理用の内部識別子。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002694/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002694/10010813/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「グッドスマイルカンパニー公式ショップ」、決済ページの改ざんでクレジットカード情報を含む個人情報が漏えいの可能性",
+   "summary": "グッドスマイルカンパニーは10月29日、同社の公式通販サイト「グッドスマイルカンパニー公式ショップ」にて、同月23日に発表した不正アクセスにより利用者の個人情報およびクレジットカード情報が漏えいした可能性があることを発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152332.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/332/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「花キューピット」、不正アクセスで会員情報約424万件が漏えい",
+   "summary": "花キューピット株式会社は10月28日、同社が運営する「インターネット花キューピット」「ビジネス花キューピット」のシステムが不正アクセスを受け、会員情報の一部が漏えいしたと発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152032.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/032/01.png",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
