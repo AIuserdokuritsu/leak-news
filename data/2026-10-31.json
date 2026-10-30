@@ -1,0 +1,266 @@
+{
+ "date": "2026-10-31",
+ "groups": [
+  {
+   "title": "外務省 3600件の個人情報漏えいか",
+   "summary": "",
+   "link": "https://news.yahoo.co.jp/pickup/6600703?source=rss",
+   "source": "Yahoo!ニュース 国内",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/30/d25dbdcc8516d0a518468c8b84c0841bac15f80caac79a577b081b6fc887ec03.jpg",
+   "count": 2,
+   "others": [
+    {
+     "source": "INTERNET Watch",
+     "link": "https://internet.watch.impress.co.jp/docs/news/2152757.html"
+    }
+   ]
+  },
+  {
+   "title": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+   "summary": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたお…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68790/20261030de68790_E0000130836_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "朝日新聞 メール配信会社不正アクセスで7万件余漏えいか",
+   "summary": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\n…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261030de68144",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68144/20261030de68144_E0000126567_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【解説人語】個人情報の流出が怖い…今できることは？いちからわかる",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVBZ2FYVVBZUEFT004M.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261030003156_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia Mobile] KDDIのユーザー情報が漏えいか　ライフネット生命への不正アクセスで判明",
+   "summary": "ライフネット生命の連携システムが不正アクセスを受け、KDDIが保有するユーザー情報の一部が外部に漏えいした可能性がある。影響は連携範囲に限られ、KDDIの通信設備やライフネット生命の他システムへの影響はない。対象項目は氏名や連絡先などで、金",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2610/30/news085.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2610/30/l_st52693_lkddi-01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 無印良品、最大2726万件の個人情報漏えいの可能性　公式アプリ利用者の「メアド」「生年月日」など",
+   "summary": "無印良品の公式アプリで、利用客の個人情報が外部に流出した可能性がある。対象は退会者を含む最大約2726万件で、メールアドレスや生年月日、性別が含まれる。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/30/news075.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news075.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
+   "summary": "「無印良品」を展開する良品計画は、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002756/10011014/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 松屋、237万件超の個人情報が漏えい　「氏名」「電話番号」「住所」など流出、公式アプリへの不正アクセスで",
+   "summary": "松屋フーズホールディングスの公式アプリへの不正アクセスにより、会員情報2000件と、ネット注文サービスなどの利用客の情報237万7127件が漏えいした。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/30/news071.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news071.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
+   "summary": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002753/10010999/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ヤクルト本社、個人情報約4万件漏えい　公式サイトへの不正アクセスで",
+   "summary": "問い合わせフォームの利用者に加え、栄養士向けに給食レシピなどを紹介する会員制サイト「たのしい給食」会員の情報などが漏えいしたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002739/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002739/10010968/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "松屋フーズ、不正アクセスにより公式アプリの利用者の情報約238万件が漏えい　アプリ・ウェブサイトを停止中",
+   "summary": "株式会社松屋フーズホールディングスは10月30日、松屋公式アプリ（松弁ネット、モバイルオーダー、松弁デリバリー）管理システムに対する第三者からの不正アクセスを受け、利用者の個人情報が漏えいしたと発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152679.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/679/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "止まらぬ個人情報漏洩…　日本交通やANAでも(2026年10月31日)",
+   "summary": "佐賀大学によりますと、今月24日、大学内で利用していたシステムがサイバー攻撃を受けました。\n\n　学生や教職員約8万人分の個人情報と附属病院の患者情報が外部へ流出した恐れがあるということです。\n\n　日本交通はハイヤーの乗客の住所など約29万人",
+   "link": "https://www.youtube.com/watch?v=FAK7TZbx3-g",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://i3.ytimg.com/vi/FAK7TZbx3-g/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "外務省に不正アクセス　約3600人の情報漏洩か(2026年10月31日)",
+   "summary": "外務省は不正アクセスを受け、個人情報が漏洩（ろうえい）した可能性があると発表しました。\n\n　外務省によりますと、今年7月、第三者が外部とのやり取りが可能なネットワークに不正にアクセスしていたことが判明しました。\n\n　外務省の職員や職員と直接",
+   "link": "https://www.youtube.com/watch?v=9YaRUnvfzMs",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://i2.ytimg.com/vi/9YaRUnvfzMs/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "ANNnewsCH",
+     "link": "https://www.youtube.com/watch?v=9hdEOtsVFL0"
+    }
+   ]
+  },
+  {
+   "title": "【政治ライブ】低所得者への給付額「年5000円程度」　就業者負担軽減支援金めぐり…政府、参考値を与野党に提示 ── 政治ニュースまとめ （日テレNEWS LIVE）",
+   "summary": "◇政治に関するニュースについてまとめました\n\n【ラインアップ】\n・モンゴル自然保護区の大規模火災受け　木原官房長官「被害の大きさ深刻に受け止め」\n・議員定数31議席削減案　自民党内で議論　維新の会合では結論持ち越しに\n・議員定数31議席削減",
+   "link": "https://www.youtube.com/watch?v=bGKPaykI05s",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/bGKPaykI05s/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【サイバー攻撃】暗号資産大手バイナンス、ハッキング被害で影響額約1兆円か　北朝鮮ハッカー集団の関与指摘 ― 社会ニュースライブ（日テレNEWS LIVE）",
+   "summary": "◇サイバー攻撃に関するニュースについてまとめました\n\n【ラインアップ】\n・GMO　「能動的サイバー防御」政府に要請　不正取引による損失は補償の方針\n・GMO不正アクセス　“攻撃者”が約80億円要求　熊谷CEO“要求に応じず\n・【集団訴訟へ】",
+   "link": "https://www.youtube.com/watch?v=C0v8ZrEUfyE",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i4.ytimg.com/vi/C0v8ZrEUfyE/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "外務省　約3600件の個人情報流出の可能性 氏名やメールアドレスなど　外交上の機密情報は含まれず｜TBS NEWS DIG",
+   "summary": "外務省はきのう、不正アクセスによっておよそ3600件の個人情報が流出した可能性があると発表しました。外交上の機密情報は含まれていないということです。\n\n外務省によりますと、ことし7月、外部とのやり取りが可能なネットワークに対する不正アクセス",
+   "link": "https://www.youtube.com/watch?v=2hb-lGpQHz0",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/2hb-lGpQHz0/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無印・松屋・ANA・外務省でも…情報流出が続くなか“GMOサイバー攻撃”ではハッカー特定の糸口も　「攻撃者の重大ミス」か【news23】｜TBS NEWS DIG",
+   "summary": "無印良品に松屋、ANAや外務省でも…。サイバー攻撃による個人情報の漏えいがとまらない中、GMOをめぐってはハッカー側特定の糸口が見え始めています。「重大なミスを犯した」“脅迫サイト”に攻撃者の”足跡”が残されていました。\n\n▼TBS NEW",
+   "link": "https://www.youtube.com/watch?v=AABUfXbJx9c",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/AABUfXbJx9c/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本交通 29万人分漏えいか ハイヤー利用者の自宅住所も【WBS】",
+   "summary": "タクシー大手の日本交通は7月に発生した社内システムへの不正アクセスで、ハイヤー利用者や従業員らの個人情報およそ29万人分が漏えいした可能性があると発表しました。情報には住所やマイナンバーが含まれハイヤー利用者のうちおよそ1万3000件の氏名",
+   "link": "https://www.youtube.com/watch?v=irPdeiFEdZ4",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://i2.ytimg.com/vi/irPdeiFEdZ4/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "外務省に不正アクセス被害 氏名やメールが漏えいの可能性（2026年10月30日）",
+   "summary": "外務省は30日午後、外部とのやり取りが可能なネットワークで不正アクセスが発生し、個人情報を含むメールなどが漏えいした可能性があると発表しました。\n\n個人情報は、氏名やメールアドレスなど約3600件で、このうち約900件は外務省職員以外のもの",
+   "link": "https://www.youtube.com/watch?v=ut8Ku6b6rmI",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/ut8Ku6b6rmI/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
