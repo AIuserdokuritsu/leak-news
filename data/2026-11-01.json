@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-01",
+ "groups": [
+  {
+   "title": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+   "summary": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたお…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68790/20261030de68790_E0000130836_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "クラブツーリズムで約432万件の個人情報が漏れたか　不正アクセス",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261031004062_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 情報漏えい2.6億人分　焼肉きんぐ、バーガーキング……1000万件超続々、不正アクセス被害企業は？【10月時点】",
+   "summary": "個人情報保護委員会は、情報漏えいの対象者が延べ約2億6000万人に上ると発表した。10月だけでも1000万件超の漏えいが相次いでいる。事案をまとめた。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/31/news017.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2610/31/cover_news017.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
