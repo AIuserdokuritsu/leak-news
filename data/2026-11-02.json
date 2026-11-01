@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-02",
+ "groups": [
+  {
+   "title": "GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態",
+   "summary": "顧客企業の社員のIDを管理するサービスを手がけている、GMOインターネットグループの傘下の会社でおよそ4万5000人分の顧客情報が漏えいしたことが明らかになりました。\n\n顧客の個人情報を含むファイルが…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69281",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69281/20261101de69281_E0000133324_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "クラブツーリズムで約432万件の個人情報が漏れたか　不正アクセス",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261031004062_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] タイムズカーは3000円、GMOは300万円　漏えい「見舞金」納得できる？",
+   "summary": "個人情報の漏えいが相次ぐ中、利用者は「500円の見舞金」「経営責任者の謝罪」では納得しないようだ。企業に求める対応について、調査結果から考える。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/01/news002.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/01/cover_news002.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「既知の脆弱性を対策すれば、AIが大きな脅威とは言いがたい」「個人情報漏えいの被害は何年も続く」、森井名誉教授が語るサイバー攻撃の現状　GMOへの攻撃は「直接顧客の個人情報を人質に取るランサムウェアの新形態」",
+   "summary": "神戸大学名誉教授であり、神戸市サイバー攻撃対策アドバイザーなどを務める森井昌克氏は、「昨今の相次ぐサイバー攻撃による情報漏えいは、AIが次々と脆弱性を発見したり、AIによる攻撃が増えたりしていることだけが原因ではない」とし、「AIは脅威では",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152904.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/904/01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【独自】“7年服役”伝説ハッカー語るGMO攻撃犯人像は「素人」残された痕跡とは(2026年11月1日)",
+   "summary": "アメリカの刑務所内で撮られた写真に映る1人の男性、かつて100億円を超える詐欺事件を引き起こし、アメリカ社会を震撼させたベトナム人ハッカーです。7年の刑期を終え、現在はベトナムに戻ってホワイトハッカーとして働く男性に、GMOにサイバー攻撃を",
+   "link": "https://www.youtube.com/watch?v=Jp_bEOI_zhM",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i3.ytimg.com/vi/Jp_bEOI_zhM/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【サイバー攻撃】「フェーズ変わった」　元警察庁サイバー捜査課長が2つのテーマで解説【バンキシャ！】―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "summary": "◇サイバー攻撃に関するニュースについてまとめました\n\n【ラインアップ】\n・GMO“個人情報公開サイト”閉鎖状態を確認　サイバーアタック実行者が公開する情報へのアクセスは危険…強く注意喚起\n・GMO脅迫サイトが“実質閉鎖”　多くの人の通報がき",
+   "link": "https://www.youtube.com/watch?v=_PSygmrd3mc",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i4.ytimg.com/vi/_PSygmrd3mc/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
