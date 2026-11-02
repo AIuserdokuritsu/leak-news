@@ -12,7 +12,7 @@
  {
   "name": "朝日新聞",
   "ok": true,
-  "items": 1
+  "items": 2
  },
  {
   "name": "毎日新聞",
@@ -27,17 +27,17 @@
  {
   "name": "Yahoo!ニュース IT",
   "ok": true,
-  "items": 0
+  "items": 1
  },
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 1
+  "items": 5
  },
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 1
+  "items": 3
  },
  {
   "name": "ANNnewsCH",
@@ -47,7 +47,7 @@
  {
   "name": "日テレNEWS",
   "ok": true,
-  "items": 1
+  "items": 2
  },
  {
   "name": "TBS NEWS DIG",
@@ -57,7 +57,7 @@
  {
   "name": "テレ東BIZ",
   "ok": true,
-  "items": 0
+  "items": 2
  },
  {
   "name": "FNNプライムオンライン",

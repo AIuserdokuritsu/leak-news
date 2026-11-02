@@ -1,0 +1,219 @@
+{
+ "date": "2026-11-03",
+ "groups": [
+  {
+   "title": "GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態",
+   "summary": "顧客企業の社員のIDを管理するサービスを手がけている、GMOインターネットグループの傘下の会社でおよそ4万5000人分の顧客情報が漏えいしたことが明らかになりました。\n\n顧客の個人情報を含むファイルが…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261101de69281",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69281/20261101de69281_E0000133324_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ノジマ、会員情報約700万人が流出 管理システムに不正アクセス",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVC23HL9VC2ULFA01PM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261102003858_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ノジマ 700万人分の個人情報流出",
+   "summary": "",
+   "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
+   "source": "Yahoo!ニュース IT",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/2/16c1c1b708796da56d0b19736e4f7bc25875eac6a18032455a0c7f02e847d541.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
+   "summary": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002795/10011152/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
+   "summary": "漏えいした可能性がある項目は明らかにしていない。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002785/10011139/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性　「RAGTAG」運営元",
+   "summary": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002783/10011131/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
+   "summary": "氏名、国籍、性別、生年月日・年齢、住所、電話番号、メールアドレス、会員ID、緊急連絡先が対象。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002782/10011122/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ロゴ画像用の公開領域に顧客ファイルも保存　GMO系シングルサインオン、4.5万人分漏えい",
+   "summary": "顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり外部から取得できる状態だったことが原因。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/02/2000002780/10011114/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出　ラクスライトクラウド「ブラストメール」でも。法人向けメール配信サービスの不正アクセス続く",
+   "summary": "ペイクラウドホールディングス株式会社は11月2日、子会社のアララ株式会社が運営するメール配信サービス「アララ メッセージ」において発生した不正アクセスについて、第2報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153174.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/174/1.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "IPAが個人情報漏えいの被害者に向けて「情報セキュリティ安心相談窓口」を強化、電話・メールで相談可能",
+   "summary": "独立行政法人情報処理推進機構（IPA）は11月2日、個人からのセキュリティに関する相談を受け付ける「情報セキュリティ安心相談窓口」を強化し、自分の情報が漏えいし、不安に感じている人からの相談を受け付けると発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153148.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/148/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「既知の脆弱性を対策すれば、AIが大きな脅威とは言いがたい」「個人情報漏えいの被害は何年も続く」、森井名誉教授が語るサイバー攻撃の現状　GMOへの攻撃は「直接顧客の個人情報を人質に取るランサムウェアの新形態」",
+   "summary": "神戸大学名誉教授であり、神戸市サイバー攻撃対策アドバイザーなどを務める森井昌克氏は、「昨今の相次ぐサイバー攻撃による情報漏えいは、AIが次々と脆弱性を発見したり、AIによる攻撃が増えたりしていることだけが原因ではない」とし、「AIは脅威では",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152904.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2152/904/01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【ニュース】アットコスメに不正アクセス　約300万人分の肌質や髪質の情報流出 #shorts",
+   "summary": "相次ぐ不正アクセスで個人の髪の毛や肌の情報まで漏洩（ろうえい）しました。\n\n　化粧品の情報サイト「アットコスメ」に不正アクセスがあり、約300万人の個人情報が漏洩しました。\n\n　住所や生年月日のほか、髪質や肌質といった美容に関する情報も流出",
+   "link": "https://www.youtube.com/shorts/JQqQquC-Ejc",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/JQqQquC-Ejc/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【サイバー攻撃】GMO熊谷会長ら  きょう午後会見へ  サイバー攻撃受けて以降初―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "summary": "◇サイバー攻撃に関するニュースについてまとめました\n\n【ラインアップ】\n・総務省　GMO脅迫サイトへのアクセス遮断を通信業界に要請\n・グッドスマイルカンパニー　クレジットカード番号や名義人名、セキュリティーコードなど漏えいか\n・GMO会長兼",
+   "link": "https://www.youtube.com/watch?v=AwaZfe3ztSU",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i2.ytimg.com/vi/AwaZfe3ztSU/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=U4JcqbWuld0"
+    }
+   ]
+  },
+  {
+   "title": "サントリー 10万人分漏えい 従業員や新卒採用応募者ら【WBS】",
+   "summary": "サントリーHDは2日、グループが利用する外部のクラウドサービスが不正アクセスを受け、およそ10万人分の個人情報が漏えいしたと発表しました。およそ9万人分の従業員の情報のほか、2026年の新卒採用選考に応募したおよそ7200人の氏名なども漏え",
+   "link": "https://www.youtube.com/watch?v=UAhRQIM1MOA",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/UAhRQIM1MOA/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【ライブ配信】GMO 熊谷正寿社長が会見へ FXサーバー不正アクセスと100万ドル要求問題の経緯【記者会見】",
+   "summary": "GMOインターネットグループの熊谷正寿会長兼社長は、きょう午後3時30分から、外国為替証拠金取引・FXの自動売買サービスに対する不正アクセス問題を巡り、都内で記者会見を開きます。\nこの問題は先月21日、サーバー貸し出しサービス「お名前.co",
+   "link": "https://www.youtube.com/watch?v=0z1dma5garE",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/0z1dma5garE/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
