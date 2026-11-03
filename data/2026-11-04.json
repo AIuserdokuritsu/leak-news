@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-04",
+ "groups": [
+  {
+   "title": "大阪市が使う配信サービスで氏名など漏洩か　アララへの不正アクセス",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVC31SSBVC3UCVL009M.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261103001961_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ノジマオンライン、会員情報約700万件漏えい　不正アクセスでサイト休止、再開未定",
+   "summary": "",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002848/10011224/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」",
+   "summary": "ライフカード株式会社は11月2日、Visaプリペイドサービス「Vプリカ」における個人情報漏えいの可能性について情報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153282.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/282/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ロードサービス向け業務システムを手がけるプレステージ・コアソリューション、不正アクセスで最大550万件の情報漏えい　ソニー損保、ENEOSカーリースなどの事業者に影響",
+   "summary": "株式会社プレステージ・インターナショナルは11月2日、同社グループの業務システムが不正アクセスを受け、個人情報が外部に持ち出されたことを確認したとして、情報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153279.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/279/01.png",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
