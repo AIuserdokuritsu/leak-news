@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-05",
+ "groups": [
+  {
+   "title": "[ITmedia News] 無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
+   "summary": "「無印良品」を展開する良品計画は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002885/10011325/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか",
+   "summary": "旧デニーズアプリから新アプリへの移行に関するシステム処理で、第三者が認証情報を不正に作成し、一部の利用者のアカウントにアクセスできる状態になっていたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002878/10011315/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
+   "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002850/10011299/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
+   "summary": "ビックカメラとコジマ、ソフマップは11月2日、メールマガジン登録者のメールアドレスなど約1490万件が流出した可能性があると発表した。メール配信の委託先、アララへの不正アクセスが原因。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002866/10011274/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] メルアド7700万件流出か　アララメッセージの不正アクセスで続報　共通環境から契約企業のサーバへ侵入　悪用も確認",
+   "summary": "アララ（東京都港区）が提供するメール配信サービス「アララメッセージ」への不正アクセスを巡り、新たに約7700万件のメールアドレスが外部に流出、またはその恐れがある。ペイクラウドホールディングスが10月29日に公表した不正アクセスの続報で、影",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002861/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002861/10011255/2048",
+   "count": 1,
+   "others": []
+  }
+ ]
+}

@@ -12,7 +12,7 @@
  {
   "name": "朝日新聞",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "毎日新聞",
@@ -32,12 +32,12 @@
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 1
+  "items": 5
  },
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 2
+  "items": 0
  },
  {
   "name": "ANNnewsCH",
@@ -62,6 +62,6 @@
  {
   "name": "FNNプライムオンライン",
   "ok": false,
-  "error": "HTTP Error 500: Internal Server Error"
+  "error": "HTTP Error 404: Not Found"
  }
 ]
