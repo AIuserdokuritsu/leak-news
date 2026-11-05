@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-06",
+ "groups": [
+  {
+   "title": "[ITmedia News] 年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
+   "summary": "SMBCコンシューマーファイナンスは、カードローンなどの保証業務で使っているシステムが第三者による不正アクセスを受け、最大32万118人分の氏名や住所、運転免許証番号、勤務先の年収、ローン保証額などが外部に送信されたと発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002930/10011440/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
+   "summary": "My docomoはメンテが続いており、復旧の見込みは未定。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002929/10011437/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia Mobile] ドコモ、不正アクセスで最大約30万件の個人情報流出　オンラインサービス復旧のめど立たず",
+   "summary": "NTTドコモのサーバへの不正アクセスがあったことが判明した。オンライン窓口2拠点から最大約30万件のユーザー情報が流出した。同社は全アクセスを遮断して復旧を進めつつ不審な連絡への警戒を呼びかけている。",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news093.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/l_st52693_docomoca-01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] ソラシドエア49万件、エア・ドゥ67万件のメアド流出　システム不正アクセスで",
+   "summary": "航空会社のソラシドエア（宮崎市）とAIRDO（エア・ドゥ、札幌市）は11月4日、両社のメール配信サービスに不正アクセスがあり、個人情報が漏洩したとそれぞれが発表した。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/05/news083.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/05/cover_news083.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
+   "summary": "同サイトは19日にサービスを停止。20日には、会員の氏名や住所、電話番号、ハッシュ化された寄附控除試算額など445万4097件の個人情報が外部に流出したと発表していた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002910/10011396/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 公表済みの脆弱性に気づかず39万6920人分漏えい　採用サービスApplyNow　一部マイナンバーや口座情報も",
+   "summary": "採用関連サービスを手掛けるApplyNowは11月4日、9月9日に公表した同社サービスへの不正アクセスについて、39万6920人の個人情報が漏えいしたと発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002908/10011390/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] モスやワークマン、IIJmioも　アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+   "summary": "メール配信サービスを提供するアララへの不正アクセスを巡り、モスフードサービスやワークマン、IIJなど利用企業による顧客情報流出の発表が相次いでいる。当初は影響がないと案内していた企業が、後から流出を公表したケースもある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/05/2000002907/10011388/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia Mobile] IIJmioで約98万件のメールアドレス流出　委託先への不正アクセスで不審メールに要注意",
+   "summary": "インターネットイニシアティブは、同社が利用する外部メール配信サービスが不正アクセスを受けたと発表した。対象は「IIJmio」契約者のメールアドレス98万3458件にのぼる。同社は送信元を偽装した不審メールへの注意と削除を呼びかけている。",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/05/news068.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/05/l_st523693_iijmail-01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "その「返金のお知らせ」本物ですか？ 氏名や注文内容が正しくても詐欺メールかも……相次ぐ情報漏えいで巧妙化する手口【読めば身に付くネットリテラシー】",
+   "summary": "購入した記憶のある商品名や金額が正しく書かれた「返金のお知らせ」が届いたら、疑わずに手続きを進めてしまう人も多いのではないでしょうか。ところが、今年9月、実際の注文内容と一致する不審な返金案内が購入者に届く事件が起きました。漏えいした情報が",
+   "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2153541.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/541/01.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}

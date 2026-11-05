@@ -32,12 +32,12 @@
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 5
+  "items": 8
  },
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 0
+  "items": 1
  },
  {
   "name": "ANNnewsCH",
@@ -47,7 +47,7 @@
  {
   "name": "日テレNEWS",
   "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "error": "HTTP Error 500: Internal Server Error"
  },
  {
   "name": "TBS NEWS DIG",
