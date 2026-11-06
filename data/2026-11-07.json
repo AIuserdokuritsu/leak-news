@@ -1,0 +1,175 @@
+{
+ "date": "2026-11-07",
+ "groups": [
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
+   "summary": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002984/10011558/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia Mobile] NTTドコモが「不正アクセス事案」「5G SAの通信障害」について説明　不正アクセスでは「見舞金」の支払いも検討",
+   "summary": "NTTドコモが、11月5日に公表した不正アクセスに伴う個人情報流出事案と、同日に発生した5G SA契約者における通信障害について記者説明会を開催している。この記事では、その概要をお伝えする。【更新】",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/06/news085.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/06/cover_news085.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] KDDI松田社長、決算会見で2つの「お詫び」　メアド1223万件超漏えい、モンゴルの火災について何を語った？",
+   "summary": "KDDIの2027年3月期第2四半期決算は増収増益となった。一方、決算会見では子会社のモンゴルでの火災や、125万件超のメールアドレスなどが漏えいしたサイバー攻撃についても説明。松田社長は謝罪するとともに、再発防止に向けたセキュリティ対策の",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/06/news083.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news083.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 政府、相次ぐ情報漏えいで事業者に注意喚起　「基本的な対策が不十分」な事例を複数確認",
+   "summary": "国家サイバー統括室は、相次ぐ個人情報漏えいを受け、事業者向けに注意喚起を公表した。基本的な対策の不備が原因とみられる事例を複数確認したほか、攻撃者によるAIの悪用も指摘。具体的なセキュリティ対策を示した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002976/10011534/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
+   "summary": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002978/10011539/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] パ・リーグ5球団で顧客のメアド流出　千葉ロッテは公式サイトへの侵入被害も",
+   "summary": "プロ野球パ・リーグ6球団の共同出資会社であるパシフィックリーグマーケティングとパ・リーグ6球団は11月6日、球団公式サイト関連のシステムに対する第三者からの不正アクセスにより、5球団で顧客のメールアドレスやニックネームが外部へ流出したと発表",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/06/news077.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news077.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] サイバー攻撃対策で自社通販サイト閉店　ドールのアゾン「個人情報を社内に保管しない」方針へ",
+   "summary": "個人情報漏えい事案が続いていることを受け、個人情報を「持たない」方向に動く企業が出てきている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/06/2000002967/10011518/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "デジタル証券などを提供するSecuritize Japanに不正アクセス、NTTデータなど委託元各社が情報を公開",
+   "summary": "デジタル証券などのソリューションを提供するSecuritize Japan株式会社への不正アクセスにより、個人情報の一部が漏えいしたとして、同社に委託している企業が情報を公開した。記事公開時点で、Securitize Japanの公式サイト",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154378.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/378/1.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SMBCコンシューマーファイナンス、保証業務のシステムに不正アクセスを受け、最大約32万人の年収や保証額を含む個人情報が漏えい",
+   "summary": "SMBCコンシューマーファイナンス株式会社は11月5日、同社が保証業務に使用しているシステムが不正アクセスを受け、顧客情報が漏えいしたと発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154306.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/306/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国家サイバー統括室、事業者向けに不正アクセス対策のポイントをまとめた資料を公開　ウェブサイト・モバイルアプリで基本的な対策の徹底を呼びかけ",
+   "summary": "内閣官房国家サイバー統括室（NCO）は11月5日、事業者向けに個人情報の漏えいなどにつながる不正アクセスへの対策例をまとめた資料を公開した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154286.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/286/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無印良品、「MUJI Card」のカード番号約109万件の流出可能性も判明、過去にポイント付与のためデータ保持",
+   "summary": "良品計画株式会社は11月4日、不正アクセスに関する第2報を発表し、クレジットカード「MUJI Card」のカード番号全桁が約109万件（うち約34.5万件が発表時点でも有効）など、新たな情報流出について発表した。本件については、MUJI C",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154222.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/222/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "その「返金のお知らせ」本物ですか？ 氏名や注文内容が正しくても詐欺メールかも……相次ぐ情報漏えいで巧妙化する手口【読めば身に付くネットリテラシー】",
+   "summary": "購入した記憶のある商品名や金額が正しく書かれた「返金のお知らせ」が届いたら、疑わずに手続きを進めてしまう人も多いのではないでしょうか。ところが、今年9月、実際の注文内容と一致する不審な返金案内が購入者に届く事件が起きました。漏えいした情報が",
+   "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2153541.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2153/541/01.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
