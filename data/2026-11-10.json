@@ -1,0 +1,220 @@
+{
+ "date": "2026-11-10",
+ "groups": [
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] ニトリ、最大3762万件の情報流出か　「ニトリネット」注文データなど不正アクセスの可能性",
+   "summary": "ニトリホールディングスは11月9日、同社が管理するシステムが第三者からの不正アクセスを受け、サーバ上に保有する最大3762万件の個人情報が外部へ流出した可能性があると発表した。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news085.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/09/cover_news085.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "ITmedia",
+     "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/"
+    }
+   ]
+  },
+  {
+   "title": "[ITmedia News] 口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
+   "summary": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000003021/10011622/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
+   "summary": "不正利用は約7時間続き、AIサービス側が利用制限を適用したことで止まったという。攻撃者が顧客の情報を扱うシステムにアクセスしようとした痕跡はなく、データの改ざんや窃取の形跡もなかったという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000003016/10011608/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
+   "summary": "PHPの脆弱性への対応をきっかけに学内システムの状況を確認する中で、不正アクセスの痕跡を見つけたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000003012/10011602/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
+   "summary": "全会員の氏名とメールアドレスに加え、登録・購入状況に応じ、生年月日や年齢、性別、住所、電話番号も流出した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000003009/10011597/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ネット印刷「ラクスル」に不正アクセス　入稿データ一部漏えいか　名刺やはがき記載の個人情報も",
+   "summary": "ラクスルは11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに不正アクセスがあり、印刷データなどに含まれる個人情報が流出した恐れがあると発表した。名刺やはがきなどの印刷物に載っている、注文者以外の人の情報も含む場合があると",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000003004/10011588/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+   "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/09/2000002926/10011427/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ESET、個人情報漏えい監視機能搭載の「ESET HOME セキュリティ アルティメット」を公式ECサイトで40％割引、11月30日まで",
+   "summary": "イーセットジャパン株式会社（ESET）は11月6日、相次ぐ個人情報の漏えいを受け、個人向けセキュリティソフト「ESET HOME セキュリティ アルティメット 5台1年版」を40％割引の8556円で販売するキャンペーンを開始した。「イーセッ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154696.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/696/1.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「シェアフル」顔写真など流出か　求人企業の情報も流出の可能性(2026年11月9日)",
+   "summary": "短時間バイトを紹介する「シェアフル」が不正アクセスを受け、利用者の顔写真が流出した可能性があることが分かりました。\n\n　シェアフルによりますと、4日深夜、管理システムに対して不正アクセスを受けていたことが翌日朝に判明したということです。\n\n",
+   "link": "https://www.youtube.com/watch?v=fG-4-gnd7nE",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/fG-4-gnd7nE/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無印良品の通販サイトで“リスト型攻撃”　新たに約27万件の流出か(2026年11月10日)",
+   "summary": "無印良品を運営する良品計画は、通販サイト上で外部で不正入手したパスワードなどを使ってログインを試みる「リスト型攻撃」が行われた可能性があると発表しました。\n\n　良品計画によりますと、攻撃を受けたのは「無印良品ネットストア」です。\n\n　良品計",
+   "link": "https://www.youtube.com/watch?v=4jFcJlJQjco",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/4jFcJlJQjco/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【情報漏えい】ニトリ公式通販サイトに不正アクセス　最大3762万件の個人情報流出か―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "summary": "◇サイバー攻撃に関するニュースについてまとめました\n\n【ラインアップ】\n・GMO熊谷会長ら、きょう午後会見へ　サイバー攻撃受けて以降初\n・GMOがサイバー攻撃後初会見　2年前に指摘も…“対応が深さと速さの両面で不足”と謝罪\n・【解説",
+   "link": "https://www.youtube.com/watch?v=I53xEZRBncc",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/I53xEZRBncc/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "相次ぐ企業への不正アクセス ニトリで最大3762万件の情報流出か ソニー生命でも被害 無印良品には“新たなサイバー攻撃”｜TBS NEWS DIG",
+   "summary": "企業への不正アクセスによる個人情報の漏えいが続いています。家具大手の「ニトリホールディングス」はきのう、3700万件以上の会員情報が流出した可能性があると発表しました。\n\nニトリホールディングスによりますと、今月6日に自社で管理するシステム",
+   "link": "https://www.youtube.com/watch?v=kxBLSe0bmpg",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/kxBLSe0bmpg/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【相次ぐ不正アクセス】“漏えいリスク”に苦渋の決断… 個人情報を「あえて持たない」企業に個人情報“不要”アプリも【news23】｜TBS NEWS DIG",
+   "summary": "免許証のデータ、メールアドレス、名前なども漏えいの“リスク”が日々、高まっています。情報を経営に生かすのか、リスクをとるのか、難しい選択を迫られるなか、個人情報を「あえて持たない」企業も出てきたようです。\n\n▼TBS NEWS DIG 公式",
+   "link": "https://www.youtube.com/watch?v=j2nv0TIdibU",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/j2nv0TIdibU/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "セガ 219万件流出 不正アクセス 漏えい相次ぐ【WBS】",
+   "summary": "ゲーム大手のセガは、メールマガジンの配信委託先が不正アクセスを受け顧客のメールアドレスおよそ219万件が流出したと発表しました。氏名や電話番号、クレジットカード情報、ログインパスワードなどは含まれていないとしています。また、MS＆ADグルー",
+   "link": "https://www.youtube.com/watch?v=Q69zAOyU1vA",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i2.ytimg.com/vi/Q69zAOyU1vA/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ニトリ、不正アクセスで最大3762万件の個人情報流出か　商品購入者や会員の名前、住所、電話番号など（2026年11月09日）",
+   "summary": "ニトリは、最大約3800万件の個人情報が流出した可能性があることを発表しました。\n\n家具・インテリア大手のニトリホールディングスによりますと、第三者による不正アクセスを受け、サーバーに保有していた個人情報、最大3762万件が外部に流出した可",
+   "link": "https://www.youtube.com/watch?v=pYpWhYyXtJ4",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i1.ytimg.com/vi/pYpWhYyXtJ4/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
