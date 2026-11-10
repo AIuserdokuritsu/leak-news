@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-11",
+ "groups": [
+  {
+   "title": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+   "summary": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73559",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73559/20261110de73559_E0000159313_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
+   "summary": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000003084/10011803/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 企業のアプリで進む、個人情報を「あえて持たない」選択　「ゆで太郎」「ウェンディーズ」はどう対策？",
+   "summary": "「焼肉きんぐ」や「無印良品」など、大手企業で相次いでいる大規模な不正アクセス。AIの活用によってサイバー攻撃が高度化する中、問われるのは「そもそも企業は詳細な個人情報を集める必要があるのか」という点だ。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/11/news014.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news014.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども",
+   "summary": "スキマバイトアプリ「シェアフル」を運営するシェアフル（東京都港区）は11月9日、社内管理システムへの不正アクセスにより、最大約750万件のユーザーアカウントに関する個人情報が流出した可能性があると発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003072/10011763/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「シェアフル」に不正アクセス、個人情報最大750万件流出の可能性。給与振込用口座や緊急連絡先含む",
+   "summary": "シェアフル株式会社は11月9日、スキマバイトアプリ「シェアフル」の社内管理システムが不正アクセスを受け、ユーザーの個人情報が流出した可能性があるとして情報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155310.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2155/310/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ESET、個人情報漏えい監視機能搭載の「ESET HOME セキュリティ アルティメット」を公式ECサイトで40％割引、11月30日まで",
+   "summary": "イーセットジャパン株式会社（ESET）は11月6日、相次ぐ個人情報の漏えいを受け、個人向けセキュリティソフト「ESET HOME セキュリティ アルティメット 5台1年版」を40％割引の8556円で販売するキャンペーンを開始した。「イーセッ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2154696.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2154/696/1.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "平元デジタル大臣　アンソロピック幹部にサイバー攻撃への対応協力求める",
+   "summary": "サイバー攻撃への対応に向け連携を確認しました。自民党の平元デジタル大臣はアメリカのアンソロピックの幹部と面会し、企業で不正アクセスによる個人情報の流出が相次いでいることを受け、サイバー攻撃への対応に協力を求めました。平氏によるとアンソロピッ",
+   "link": "https://www.youtube.com/watch?v=ZZyYBpjc8AQ",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/ZZyYBpjc8AQ/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
