@@ -37,7 +37,7 @@
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 2
+  "items": 0
  },
  {
   "name": "ANNnewsCH",
@@ -52,7 +52,7 @@
  {
   "name": "TBS NEWS DIG",
   "ok": true,
-  "items": 0
+  "items": 1
  },
  {
   "name": "テレ東BIZ",
@@ -62,6 +62,6 @@
  {
   "name": "FNNプライムオンライン",
   "ok": true,
-  "items": 0
+  "items": 1
  }
 ]

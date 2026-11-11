@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-12",
+ "groups": [
+  {
+   "title": "靖国神社運営サイトに不正アクセス 約1万4500件の情報漏えい",
+   "summary": "東京・千代田区の靖国神社は、お札やお守りなどの注文を受け付けるサイトが10月、不正アクセスを受け、会員の氏名やパスワードに関する情報などが外部に漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de74452",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74452/20261111de74452_E0000165584_1_l.jpg",
+   "count": 2,
+   "others": [
+    {
+     "source": "ITmedia",
+     "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/"
+    }
+   ]
+  },
+  {
+   "title": "[ITmedia News] メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
+   "summary": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000003114/10011902/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
+   "summary": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000003105/10011864/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "靖国神社のお守りなど受け付けるサイトに不正アクセス 氏名・メアドなどの個人情報約1万4500件が漏えい｜TBS NEWS DIG",
+   "summary": "東京・千代田区の靖国神社はきのう、運営するサイトが不正アクセスを受け、利用者の個人情報、およそ1万4500件が外部に漏えいしたと発表しました。\n\n靖国神社によりますと、不正アクセスを受けたのは、お守りの申し込みなどを受け付ける「オンライン授",
+   "link": "https://www.youtube.com/watch?v=R7FJSlJ3Df8",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i3.ytimg.com/vi/R7FJSlJ3Df8/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SMBC日興 情報漏えい 「持ち株会」5万人分【WBS】",
+   "summary": "SMBC日興証券は11日、最大で5万6000人以上の氏名や配当金などの情報が漏洩したと発表しました。上場企業の社員が自社株を共同購入する「持ち株会」から管理を任されている情報システムが不正アクセスを受けたためです。このシステムには取引機能は",
+   "link": "https://www.youtube.com/watch?v=Aa9aDW04Tjw",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/Aa9aDW04Tjw/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“4600万円”腕時計窃盗で男逮捕 動機は「自分の姿を鏡で見て気に入って」 後日返送の理由「店に戻さないとダメ」 名前や住所はウソ（2026年11月11日）",
+   "summary": "東京・中野ブロードウェイで高級腕時計が盗まれた事件で新たな動きです。\n\n警視庁は、30歳の男を名古屋市内で逮捕。\n盗んだ動機について、男は「とても気に入ってしまった」などと供述しています。\n\n11日午後1時過ぎ、名古屋市内で逮捕された30代",
+   "link": "https://www.youtube.com/watch?v=QasjCCzLs3c",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/QasjCCzLs3c/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
