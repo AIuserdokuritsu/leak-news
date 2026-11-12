@@ -32,7 +32,7 @@
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 3
+  "items": 5
  },
  {
   "name": "INTERNET Watch",
@@ -57,11 +57,11 @@
  {
   "name": "テレ東BIZ",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "FNNプライムオンライン",
   "ok": true,
-  "items": 1
+  "items": 0
  }
 ]

@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-13",
+ "groups": [
+  {
+   "title": "靖国神社運営サイトに不正アクセス 約1万4500件の情報漏えい",
+   "summary": "東京・千代田区の靖国神社は、お札やお守りなどの注文を受け付けるサイトが10月、不正アクセスを受け、会員の氏名やパスワードに関する情報などが外部に漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de74452",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74452/20261111de74452_E0000165584_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia エンタープライズ] おわびメール1通で、後は自己責任？　個人情報漏えい時代に欠けた「3つの仕組み」",
+   "summary": "ある日おわびメールが届き、それから身に覚えのないSMSが増えた。筆者も漏えい被害の当事者になった。タイムズカーの約662万件をはじめ流出が相次ぐ今も、後始末は個人任せだ。登録は事実上の強制といえるのに、なぜ救済の仕組みは育たないのか。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news022.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/enterprise/articles/2611/13/cover_news022.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか　問われる経営の責任",
+   "summary": "企業へのサイバー攻撃や情報漏えいが相次ぐ中、AIによって攻撃の効率化も進んでいる。技術的な防御だけでなく、経営層の理解や意思決定の仕組み、被害発生後の事業復旧まで見据えた体制づくりが必要だ。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/13/news020.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "tokutei"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/13/cover_news020.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
+   "summary": "韓国の金融機関のサイバーセキュリティを監視する韓国金融保安院は11月10日、9日午後3時ごろに外部からハッキング攻撃を受けたと発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003148/10012013/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+   "summary": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003144/10011987/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 【なぜ防げなかった？】無印良品、不正アクセス巡る12日間　「クレカ全桁」「会員情報2726万件」漏えいの背景は",
+   "summary": "「無印良品」における不正アクセスを巡り、良品計画が経緯と原因について説明した。利用者情報が約2726万件やクレジットカード情報が漏えいした可能性がある。インシデントをなぜ防げなかったのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/12/news056.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/12/cover_news056.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無印良品 ネットストア再開めど立たず 不正ログイン続く… アプリ会員情報最大2726万件が流出の可能性｜TBS NEWS DIG",
+   "summary": "不正アクセスを受けた無印良品の社長が会見で謝罪しました。ネットストアの再開のめどは立っていないとしています。\n\n良品計画　清水智 社長\n「大変申し訳ございません」\n\n無印良品を展開する良品計画は、アプリの会員情報、最大2726万件やクレジッ",
+   "link": "https://www.youtube.com/watch?v=2XapnW9vVLU",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://i3.ytimg.com/vi/2XapnW9vVLU/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
