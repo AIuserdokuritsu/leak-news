@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-14",
+ "groups": [
+  {
+   "title": "[ITmedia Mobile] マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
+   "summary": "マネックス証券は11月13日、外部委託先の口座開設システムへの不正アクセスで個人情報漏えいの恐れがあると発表した。メールアドレス最大113万件と本人確認書類画像1592件が対象で、個人番号や基幹システムへの影響はない。同社はシステムを遮断済",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_st52693_monex-01.jpg",
+   "count": 2,
+   "others": [
+    {
+     "source": "INTERNET Watch",
+     "link": "https://internet.watch.impress.co.jp/docs/news/2156446.html"
+    }
+   ]
+  },
+  {
+   "title": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+   "summary": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261113de75711",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "内閣府 沖縄関連サイト 約6000人分のアドレスなど漏えいおそれ",
+   "summary": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれ…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261113de75538",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75538/20261113de75538_E0000171994_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "大阪市 100万件超の市民らのメールアドレス漏えい",
+   "summary": "大阪市は、住民票の写しの請求などをオンライン申請するシステムに関連する外部サービスが不正アクセスを受けた問題で、市民などのメールアドレス100万件余りが漏えいしたことを明らかにしました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261113de75397",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75397/20261113de75397_E0000171846_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
+   "summary": "氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/13/2000003186/10012101/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月13日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "summary": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひ",
+   "link": "https://www.youtube.com/watch?v=weuEY_Ie1vA",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "card"
+   ],
+   "image": "https://i4.ytimg.com/vi/weuEY_Ie1vA/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=ckbMx1MgY-k"
+    }
+   ]
+  },
+  {
+   "title": "MUSEは投資家の武器になる？パーソナルAIが変える資産管理と、家計・金融業界へ与えるインパクト【月曜マネーLIVE】",
+   "summary": "テレ東BIZがお届けするYouTube生配信番組『月曜マネーLIVE』。\n今回はゲストに、スマートバンク社の堀井翔太氏をお迎えし、\nいま話題のパーソナルAI「MUSE（ミューズ）」の実力と、投資家にとっての活用法を徹底深掘りします。\n\n従来",
+   "link": "https://www.youtube.com/watch?v=Q7TKqPrwXZ8",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "card"
+   ],
+   "image": "https://i2.ytimg.com/vi/Q7TKqPrwXZ8/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "窃盗目的でスーパー銭湯侵入疑い 中国籍の男逮捕 客のクレカICチップ盗難、同様の被害各地で相次ぐ 組織的犯行か（2026年11月13日）",
+   "summary": "[気になる！newsクリップ]\n警察が押収したのは、犯行に使われたとみられる170本もの合鍵です。\n\n2026年9月、窃盗目的で千葉県のスーパー銭湯に侵入した疑いで、中国籍の張立志容疑者（46）が逮捕されました。\n\n張容疑者は窃盗グループ",
+   "link": "https://www.youtube.com/watch?v=viTxp0XkAg8",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "card"
+   ],
+   "image": "https://i3.ytimg.com/vi/viTxp0XkAg8/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
