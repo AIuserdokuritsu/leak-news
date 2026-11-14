@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-15",
+ "groups": [
+  {
+   "title": "[ITmedia Mobile] マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も",
+   "summary": "マネックス証券は11月13日、外部委託先の口座開設システムへの不正アクセスで個人情報漏えいの恐れがあると発表した。メールアドレス最大113万件と本人確認書類画像1592件が対象で、個人番号や基幹システムへの影響はない。同社はシステムを遮断済",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/13/news096.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "tokutei"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/13/l_st52693_monex-01.jpg",
+   "count": 2,
+   "others": [
+    {
+     "source": "INTERNET Watch",
+     "link": "https://internet.watch.impress.co.jp/docs/news/2156446.html"
+    }
+   ]
+  },
+  {
+   "title": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+   "summary": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261113de75711",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
