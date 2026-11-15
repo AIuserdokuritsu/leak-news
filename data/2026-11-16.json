@@ -1,0 +1,18 @@
+{
+ "date": "2026-11-16",
+ "groups": [
+  {
+   "title": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+   "summary": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76188",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76188/20261115de76188_E0000176864_1_l.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}

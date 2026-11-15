@@ -12,7 +12,7 @@
  {
   "name": "朝日新聞",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "毎日新聞",
@@ -32,36 +32,36 @@
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 1
+  "items": 0
  },
  {
   "name": "ANNnewsCH",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "日テレNEWS",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "TBS NEWS DIG",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "テレ東BIZ",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "ok": true,
+  "items": 0
  },
  {
   "name": "FNNプライムオンライン",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found"
+  "ok": true,
+  "items": 0
  }
 ]
