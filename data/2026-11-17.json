@@ -1,0 +1,162 @@
+{
+ "date": "2026-11-17",
+ "groups": [
+  {
+   "title": "理研のスパコン「富岳」不正アクセス 研究データなど漏えいか",
+   "summary": "理化学研究所は、スーパーコンピューター「富岳」が外部から不正アクセスを受け、利用者のメールアドレスなどの個人情報や、研究データなどが漏えいした可能性があると発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261117de76883",
+   "source": "NHK 主要",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76883/20261117de76883_E0000182023_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スカイライナー顧客情報337万件が流出か　京成電鉄、座席予約停止",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCJ32J9VCJUDCB00HM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261116003623_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia Mobile] mineoユーザーのメルアドが漏えいした可能性　委託先で不正アクセス発生",
+   "summary": "オプテージは11月16日、業務委託先のプレイドに対する不正アクセスにより、携帯電話サービス「mineo」のユーザーのメールアドレスが漏えいした可能性があると発表した。クレジットカード情報や銀行口座情報、本人確認書類に関する情報はプレイドに提",
+   "link": "https://www.itmedia.co.jp/mobile/articles/2611/16/news078.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://image.itmedia.co.jp/mobile/articles/2611/16/l_st52693_optage-01.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
+   "summary": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "tokutei"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/16/2000003222/10012200/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
+   "summary": "ステージング環境へのログイン時の認証用パスワードを固定文字列で運用し、ベーシック認証などの認証情報も長期間変更していなかったたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/16/2000003215/10012179/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定",
+   "summary": "「京成スカイライナー」の予約システムが不正アクセスを受け、最大約337万件の個人情報が流出した可能性があると13日に発表していた。その後、公式サイトが閲覧できなくなったが、両者の関係は不明。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/16/2000003210/10012171/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持",
+   "summary": "公立大学法人大阪（大阪公立大学）は11月13日、サイバー攻撃を起因とする同大学の情報基盤システムの大規模障害についての調査結果を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156755.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/755/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に　本番環境のデータを動作検証環境へ複製・保管",
+   "summary": "paiza株式会社は11月13日、同社が管理する開発用ステージング環境（動作検証環境）において、アクセス管理の不備により、個人データ最大90万2576件が漏えいしたおそれがあると発表した。発表時点で、具体的に外部へデータが流出した事実や、情",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156774.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/774/1.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい",
+   "summary": "株式会社GoQSystemは11月13日、同社システムへの不正アクセスと個人情報を含む注文データの漏えいについて情報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156617.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/617/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スパコン「富岳」に不正アクセス　利用者の氏名やメールアドレスが漏えいした可能性(2026年11月17日)",
+   "summary": "スーパーコンピュータ「富岳」の運用システムが不正アクセスを受けた問題で、理化学研究所は利用者最大4222人の氏名やメールアドレスが漏洩（ろうえい）した可能性があると発表しました。\n\n　理化学研究所によりますと、「富岳」への不正アクセスは13",
+   "link": "https://www.youtube.com/watch?v=y3d_AMPbsrk",
+   "source": "ANNnewsCH",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/y3d_AMPbsrk/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スパコン「富岳」に不正アクセス 理化学研究所【WBS】",
+   "summary": "理化学研究所のスーパーコンピューター「富岳」の運用システムが外部から不正アクセスを受け、利用者の情報が流出した可能性があることが、分かりました。文部科学省によりますと、不正アクセスを受けたのは、富岳を利用しようとする際に接続するシステムだと",
+   "link": "https://www.youtube.com/watch?v=pmQReQMkxUw",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/pmQReQMkxUw/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
