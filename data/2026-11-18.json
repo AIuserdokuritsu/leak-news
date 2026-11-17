@@ -1,0 +1,205 @@
+{
+ "date": "2026-11-18",
+ "groups": [
+  {
+   "title": "メガネの「ジンズ」で個人情報漏えい 最大1800万件余の可能性",
+   "summary": "メガネチェーンの「ジンズ」は、メールマガジンの配信を委託していた会社が不正アクセスを受けた影響で、会員の氏名の一部や生年月日、メールアドレスなどの個人情報が漏えいしたと明らかにしました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261117de77389",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77389/20261117de77389_E0000185451_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "理研のスパコン「富岳」不正アクセス 研究データなど漏えいか",
+   "summary": "理化学研究所は、スーパーコンピューター「富岳」が外部から不正アクセスを受け、利用者のメールアドレスなどの個人情報や、研究データなどが漏えいした可能性があると発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261117de76883",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76883/20261117de76883_E0000185570_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] パスキーの“弱点”はどこにある？　会員アプリの安全性を高める「持たない」設計とは",
+   "summary": "パスキーは安全性と利便性を両立する認証方式だが、導入後も不正アクセスのリスクは残る。小売アプリの認証設計を見直すとともに、会員情報を必要最小限に抑える「持たない設計」の重要性を考える。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/18/news008.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/18/cover_news008.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　「テスト環境」の一部情報が流出のおそれ",
+   "summary": "楽天証券は、第三者による不正アクセスで最大約1125万口座分の顧客情報が漏えいした可能性があると発表した。うち最大約447万口座分は氏名や住所、金融資産情報なども対象。パスワードや暗証番号の漏えいは確認していない。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/17/2000003275/10012348/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 楽天証券、最大1125万口座の情報漏えいか　447万口座は「年収」「資産情報」も対象",
+   "summary": "楽天証券は11月17日、第三者による不正アクセスを受け、顧客情報の一部が外部に漏えいした可能性があると発表した。ログインパスワードや暗証番号など取引に必要な情報の漏えいや、本件に起因する不正取引は現時点で確認されていないという。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/17/news072.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/17/cover_news072.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
+   "summary": "東京都水道局は11月16日、個人情報を記録したハードディスクドライブ（HDD：情報記憶装置）の紛失が発覚したと発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/17/2000003270/10012334/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+   "summary": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/17/2000003257/10012310/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+   "summary": "カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/17/2000003250/10012290/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "楽天証券に不正アクセス、最大約1125万口座のログインIDなどが漏えいの可能性　氏名・住所・金融資産などの情報最大約447万口座分も",
+   "summary": "楽天証券株式会社は11月17日、第三者による不正アクセスを受けたことにより、同社が保有する顧客情報の一部が漏えいした可能性があるとして情報を公開した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2157218.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2157/218/1.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "理研のスパコン「富岳」運用システムに不正アクセス、「理究」を含む利用者の個人情報漏えいの可能性　利用者が保存していた認証情報の悪用も確認",
+   "summary": "理化学研究所（理研）は11月16日、スーパーコンピューター「富岳」の運用系システムに対する不正アクセスと、「富岳」および「理究」（りきゅう）利用登録者の個人情報などが漏えいした可能性について発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156895.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/895/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持",
+   "summary": "公立大学法人大阪（大阪公立大学）は11月13日、サイバー攻撃を起因とする同大学の情報基盤システムの大規模障害についての調査結果を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156755.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/755/01.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に　本番環境のデータを動作検証環境へ複製・保管",
+   "summary": "paiza株式会社は11月13日、同社が管理する開発用ステージング環境（動作検証環境）において、アクセス管理の不備により、個人データ最大90万2576件が漏えいしたおそれがあると発表した。発表時点で、具体的に外部へデータが流出した事実や、情",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156774.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2156/774/1.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月17日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "summary": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひ",
+   "link": "https://www.youtube.com/watch?v=kx8lpMvOiHw",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/kx8lpMvOiHw/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=GUoPQzY1ol0"
+    }
+   ]
+  },
+  {
+   "title": "「早急に原因究明」官房長官 富岳不正アクセスめぐり",
+   "summary": "早急な原因究明を求めました。スーパーコンピューター「富岳」のシステムが不正アクセスを受けた問題をめぐり、木原官房長官は「早急に原因を究明する必要がある」との認識を示しました。また、個人情報などが漏えいした可能性があることを受け、「セキュリテ",
+   "link": "https://www.youtube.com/watch?v=6Qovev8pEOY",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/6Qovev8pEOY/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "最大1125万口座の情報流出か　楽天証券に不正アクセスか（2026年11月17日）",
+   "summary": "楽天証券は最大1125万口座について個人情報が流出した恐れがあると発表しました。\n\n楽天証券によりますと、不正アクセスを受け退会した客を含む利用客のお客さまコードやログインIDなど最大で1125万口座について流出した可能性があると確認しまし",
+   "link": "https://www.youtube.com/watch?v=WTqJDWTPEbA",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/WTqJDWTPEbA/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
