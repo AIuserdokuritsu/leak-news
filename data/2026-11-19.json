@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-19",
+ "groups": [
+  {
+   "title": "Jリーグのチケット販売サイト 利用者情報238万件漏えい",
+   "summary": "Jリーグは、チケットの販売サイトの運用に利用している外部のサービスが不正アクセスを受け、利用者の生年月日や性別など、合わせて238万件あまりが漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261118de78072",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de78072/20261118de78072_E0000190459_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "DHC 顧客氏名など1911万件漏えい",
+   "summary": "",
+   "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+   "source": "Yahoo!ニュース IT",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/18/89fa19b08ad0d6c40791fcb378b1c7ad36fcde5e03817e17d34196d336263b64.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "顧客情報漏えいか 楽天証券が説明",
+   "summary": "",
+   "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
+   "source": "Yahoo!ニュース IT",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/18/82d85b526d16a5b7e495750fb91744c5f1b2250c596856e3d45dbc373126f608.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
+   "summary": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/18/2000003302/10012449/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "プレイドのデジタルマーケプラットフォーム「KARTE」に不正アクセス、導入企業の顧客情報が漏えい　JINSで1829万件、RIZAPで432万件など多くの企業に影響",
+   "summary": "株式会社プレイド（PLAID）は、同社のデジタルマーケティングプラットフォーム「KARTE」に不正アクセスを受け、導入企業のアカウントに関する情報や、導入企業から委託されている個人情報を含む可能性のある一部の情報が漏えいしたことを確認したと",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2157316.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2157/316/01.png",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
