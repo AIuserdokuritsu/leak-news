@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-20",
+ "groups": [
+  {
+   "title": "警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか",
+   "summary": "個人情報の流出が相次ぐなか全国の警察のサイバー部門の幹部が集まる臨時の会議が開かれ、実態解明につながる通信履歴のいち早い収集など、企業などからの情報提供を待つのではなく“プッシュ型”の捜査を進めていく…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78229",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78229/20261119de78229_E0000191010_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Jリーグのチケット販売サイト 利用者情報238万件漏えい",
+   "summary": "Jリーグは、チケットの販売サイトの運用に利用している外部のサービスが不正アクセスを受け、利用者の生年月日や性別など、合わせて238万件あまりが漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261118de78072",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de78072/20261118de78072_E0000190459_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "EUに大規模サイバー攻撃、個人情報流出か　ポリティコ報道",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCM4DWLVCMUHBI02YM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261119004894_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "六花亭 セキュリティコード流出か",
+   "summary": "",
+   "link": "https://news.yahoo.co.jp/pickup/6603168?source=rss",
+   "source": "Yahoo!ニュース IT",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/19/92776bf2ed7520b3ff13f6077f0dcc8118198ab1e91d6eb859e02d3a4a9c20bf.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める",
+   "summary": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/19/2000003351/10012624/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 楽天証券漏えい、“テスト環境に顧客情報”のマズさ　識者「一般的でない」",
+   "summary": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト",
+   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/19/2000003312/10012489/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "楽天証券に報告徴求命令 金融庁 顧客情報漏えいで【WBS】",
+   "summary": "不正アクセスによって顧客情報が漏えいした楽天証券に対し、金融庁が金商法にもとづく報告徴求命令を出しました。楽天証券では、顧客の氏名や住所のほか、年収や金融資産の情報などが漏えいした可能性があり、原因分析や再発防止策の報告を求めるということで",
+   "link": "https://www.youtube.com/watch?v=WnbTShE6AaQ",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/WnbTShE6AaQ/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
