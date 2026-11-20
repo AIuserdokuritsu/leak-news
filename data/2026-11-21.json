@@ -1,0 +1,127 @@
+{
+ "date": "2026-11-21",
+ "groups": [
+  {
+   "title": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+   "summary": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79437",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79437/20261120de79437_E0000003813_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "不正アクセス履歴保全チーム『警察庁FFF』発足式",
+   "summary": "企業などからの個人情報流出が相次ぐ中、警察庁は不正アクセスの痕跡など、事案に関わる履歴の保全に特化した専門チームを設置し、20日、発足式が行われました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79090",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79090/20261120de79090_E0000196345_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "片山金融相 漏えい可能性の楽天証券に“非常に遺憾”",
+   "summary": "ネット証券大手の楽天証券で447万口座で年収や金融資産などの情報が漏えいした可能性が出ている問題で、片山金融担当大臣は、「非常に遺憾だ」とした上で、金融庁として会社の顧客情報の管理状況や利用者保護の対…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de78854",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78854/20261120de78854_E0000195077_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "DV等支援対象者の住所、秘匿を怠り加害側に誤送付　茨城・つくば市",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCN35NSVCNUJHB007M.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261120003754_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia ビジネスオンライン] 政府システムで「個人情報」漏えいか　7月から“非正規のアクセス”――デジタル庁の説明は？",
+   "summary": "政府のデジタル基盤「GSS」で共有していた業務ファイルが漏えいした可能性がある。デジタル庁は、個人情報が含まれている可能性があるとして、経緯を説明した。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/business/articles/2611/20/cover_news065.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか　決済画面改ざんされる",
+   "summary": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/20/2000003367/10012679/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
+   "summary": "162万4000人分の氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、などが流出。期間は2010年?2023年で、「当時は登録パスワードを暗号化せずに保存していた」という。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/20/2000003355/10012648/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "summary": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひ",
+   "link": "https://www.youtube.com/watch?v=bb60DsAqvFE",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/bb60DsAqvFE/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=OtMQoCQXVr0"
+    }
+   ]
+  },
+  {
+   "title": "「年収」「金融資産」まで…楽天証券で最大1500万口座個人情報流出　強盗など二次被害に不安の声【news23】｜TBS NEWS DIG",
+   "summary": "楽天証券の最大1500万口座に上る個人情報流出問題。利用者からは、強盗などの二次被害を心配する声が上がっています。\n\n▼TBS NEWS DIG 公式サイト　https://newsdig.tbs.co.jp/\n\n▼チャンネル登録【最新ニュ",
+   "link": "https://www.youtube.com/watch?v=C4GW6ywerFQ",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/C4GW6ywerFQ/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
