@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-22",
+ "groups": [
+  {
+   "title": "メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も",
+   "summary": "フリマアプリ大手のメルカリは、業務で利用しているAIツールを提供する会社の委託先が不正アクセスを受けた影響で、従業員が入力した顧客や取引先などの個人情報が流出した可能性があることを明らかにしました。\n…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261121de79616",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79616/20261121de79616_E0000199851_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+   "summary": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79437",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79437/20261120de79437_E0000003813_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "カード情報流出の六花亭、不正利用を1件確認　客の申し出で判明",
+   "summary": "",
+   "link": "https://mainichi.jp/articles/20261121/k00/00m/040/193000c",
+   "source": "毎日新聞",
+   "kind": "article",
+   "categories": [
+    "card"
+   ],
+   "image": "https://cdn.mainichi.jp/vol1/2025/06/29/20250629k0000m020095000p/0c10.jpg?1",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
