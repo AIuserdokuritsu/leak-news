@@ -1,0 +1,31 @@
+{
+ "date": "2026-11-24",
+ "groups": [
+  {
+   "title": "[ITmedia エンタープライズ] 解約して1年以上の筆者にも届いた漏えい通知　「資産を持っている」「通院している」がひも付く日",
+   "summary": "1年以上前に解約した楽天証券から、情報漏えいの可能性を知らせるメールが筆者に届きました。相次ぐ漏えいで流出したのは氏名や住所だけではありません。筆者が警戒する、生成AIを使った次の脅威とは何でしょうか。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news022.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/enterprise/articles/2611/24/cover_news022.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "同姓同名に書類を“誤送付”　本来受け取るはずの人物、個人情報がSNSで拡散「強い憤り」　長崎市「第三者がしたことに関与せず」（2026年11月23日）",
+   "summary": "[気になる！newsクリップ]\n長崎市が重要書類を同姓同名の別人に誤って送付し、この誤送付が大きな二次被害を招く事態になっています。\n\n「イット！」が取材したのは、本来、書類を受け取るはずだったAさんです。\n\n“同姓同名誤送付”の二次被害",
+   "link": "https://www.youtube.com/watch?v=-irWXHQr6ok",
+   "source": "FNNプライムオンライン",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/-irWXHQr6ok/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
