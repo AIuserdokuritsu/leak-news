@@ -1,0 +1,141 @@
+{
+ "date": "2026-11-25",
+ "groups": [
+  {
+   "title": "楽天証券情報漏えいの詳細判明 全体件数は約441万件",
+   "summary": "不正アクセスを受けて、個人情報が漏えいした可能性があると発表していたネット証券大手の楽天証券は、顧客から預かっている資産残高の情報などおよそ441万件が漏えいしたことを明らかにしました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80890",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80890/20261124de80890_E0000206942_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "流出した免許証や自撮り写真が売買　ダークウェブで見た個人情報悪用",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261120001478_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 京王、1100万人超の個人情報漏えいか　一部クレカ番号なども　9月のランサム被害で",
+   "summary": "京王電鉄は11月24日、京王グループが9月に受けたランサムウェア攻撃を巡り、顧客や取引先など約1063万人分の個人情報が漏えいした可能性があると発表した。一部には海外からの宿泊客のパスポートの写しやクレジットカード番号も含まれる。従業員や採",
+   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003429/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii",
+    "card"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/25/2000003429/10012869/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ　専門家訪問や窓口開設",
+   "summary": "大量の個人情報の流出など情報システムの不正アクセス被害に歯止めがかからない中、東京都内の自治体が相次いで中小企業向けのサイバーセキュリティ支援に乗り出している。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/24/2000003409/10012821/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia エンタープライズ] 解約して1年以上の筆者にも届いた漏えい通知　「資産を持っている」「通院している」がひも付く日",
+   "summary": "1年以上前に解約した楽天証券から、情報漏えいの可能性を知らせるメールが筆者に届きました。相次ぐ漏えいで流出したのは氏名や住所だけではありません。筆者が警戒する、生成AIを使った次の脅威とは何でしょうか。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news022.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/enterprise/articles/2611/24/cover_news022.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "インフォキュリオンの電子決済プラットフォーム「Wallet Station」に不正アクセス、最大約25万件の個人情報が流出　鹿児島銀行の「Payどん」で流出、サービス停止中",
+   "summary": "株式会社インフキュリオンは11月21日、同社が提供するウォレットプラットフォーム「Wallet Station」への不正アクセスによる個人情報流出に関する第3報を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2158658.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2158/658/00.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月25日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "summary": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひ",
+   "link": "https://www.youtube.com/watch?v=HwMrldetMx0",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/HwMrldetMx0/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=GmT8OIcgibY"
+    }
+   ]
+  },
+  {
+   "title": "あなたの“個人情報”が犯罪者に筒抜けに？相次ぐ情報漏えい…悪用のリスクと対策は？【記者が語るニュースのいま】｜TBS NEWS DIG #shorts",
+   "summary": "▼TBS NEWS DIG 公式サイト　https://newsdig.tbs.co.jp/\n\n▼チャンネル登録【最新ニュース見つけやすく】\nhttp://www.youtube.com/channel/UC6AG81pAkf6Lbi_1V",
+   "link": "https://www.youtube.com/shorts/l6FZ39FUo7c",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/l6FZ39FUo7c/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "楽天証券　口座の資産残高漏えいは約168万件　顧客申告の年収や資産情報の計272万件は具体的な金額は含まれず｜TBS NEWS DIG",
+   "summary": "楽天証券の個人情報の外部漏えい問題で、会社は口座の資産残高が漏えいしたのはおよそ168万口座だったと発表しました。一方、年収や資産情報については具体的な金額が含まれないことが分かったとしています。\n\n楽天証券は24日、これまでの調査で判明し",
+   "link": "https://www.youtube.com/watch?v=EMLktaIzaZo",
+   "source": "TBS NEWS DIG",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/EMLktaIzaZo/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
