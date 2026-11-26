@@ -1,0 +1,157 @@
+{
+ "date": "2026-11-27",
+ "groups": [
+  {
+   "title": "四国電力 ウェブ委託会社に不正アクセス さらに25万件情報流出",
+   "summary": "四国電力の電気料金などを確認できる会員制ウェブサービスの個人情報が流出した問題で、会社は26日、退会した会員などおよそ25万件の情報が流出していたことが新たに分かったと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de82075",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82075/20261126de82075_E0000214467_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LCC ピーチ サイト利用者の個人情報 最大のべ約944万件漏えい",
+   "summary": "関西空港を拠点とするLCC＝格安航空会社の「ピーチ・アビエーション」は、過去に公式サイトで利用していた外部サービス「KARTE」が不正アクセスを受けた影響で、利用者の氏名や生年月日、住所など最大でのべ…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de82062",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82062/20261126de82062_E0000199195_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ファンケル 子会社通販サイトの会員情報 最大66万件余漏えい",
+   "summary": "化粧品の製造や販売を手がけるファンケルは、「KARTE」という外部のサービスが不正アクセスを受けた影響で、子会社の「アテニア」の通販サイトに登録している会員のIDや生年月日など、最大で66万件余りの個…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de82059",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82059/20261126de82059_E0000213750_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アディーレ法律事務所 不正アクセスで個人情報漏えい",
+   "summary": "東京の弁護士法人「アディーレ法律事務所」は、ウェブサイトのメール配信サービスを委託する会社のサーバーが、今月中旬に外部から不正アクセスを受け、保存されていた1800件あまりの個人情報が漏えいしたと発表…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de81692",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81692/20261126de81692_E0000211756_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アディーレ法律事務所、個人情報1800件漏洩　問い合わせ内容も",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCV2G0KVCVUTIL01RM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261126003026_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
+   "summary": "氏名、メールアドレス、電話番号、都道府県、性別、生年月日、法人名・業種・担当者名、学校名・自治体名、問い合わせの内容、連絡に関する希望などが漏えいしたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/26/2000003484/10013049/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia エンタープライズ] 1Passwordに不正アクセス、顧客の氏名など流出　「保管庫は無事」でも残る注意点は",
+   "summary": "パスワード管理ツールを提供する1Passwordが不正アクセスを受け、一部顧客の氏名や電子メールアドレスなどが持ち出された。同社は、パスワードを収めた保管庫の中身は無事だと説明する。攻撃者はどこから入り込んだのか。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news054.html",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://image.itmedia.co.jp/enterprise/articles/2611/26/cover_news054.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 「サツドラ」顧客情報22万件流出　委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
+   "summary": "サイバーエージェントが開発環境のクラウド上の保管領域に、顧客の個人情報を含むファイルを誤って公開設定で1年以上にわたって配置しており、第三者が対象のファイルを少なくとも9回にわたって取得していたという。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/26/2000003469/10013000/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "[ITmedia News] 1Password、一部顧客の氏名やメールアドレスが流出　保管庫内のデータに「影響なし」",
+   "summary": "パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは、従業員のGitHubアカウントを悪用した不正アクセスにより、一部顧客の氏名やメールアドレスなどが流出したと発表した。保管庫（Vault）内のデータや暗号化鍵に",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
+   "source": "ITmedia",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://www.itmedia.co.jp/news/article/ogp/2611/26/2000003466/10012989/2048",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "summary": "◇スマートフォンアプリ「日テレNEWS NNN」\nhttps://news.ntv.co.jp/static/app/lp.html\n24時間365日のニュース配信はもちろん、新しく報道番組へ参加する機能を実装しています。上記リンクからぜひ",
+   "link": "https://www.youtube.com/watch?v=8ITOZV3QDdI",
+   "source": "日テレNEWS",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i1.ytimg.com/vi/8ITOZV3QDdI/hqdefault.jpg",
+   "count": 1,
+   "others": [
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=5pvwdy3cOm0"
+    },
+    {
+     "source": "日テレNEWS",
+     "link": "https://www.youtube.com/watch?v=i7os40_Ix8s"
+    }
+   ]
+  }
+ ]
+}
