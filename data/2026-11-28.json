@@ -1,0 +1,96 @@
+{
+ "date": "2026-11-28",
+ "groups": [
+  {
+   "title": "パーソルキャリア 転職サービス利用者個人情報61万件余漏えい",
+   "summary": "人材紹介などを行うパーソルキャリアは、委託先の会社が不正アクセスを受けたため、利用者の氏名や電話番号、それに勤務先などの個人情報61万件余りが漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82399",
+   "source": "NHK 社会",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82399/20261127de82399_E0000147917_1_l.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261016001078_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ボランティアエキストラの個人情報など3万件流出　大阪観光局",
+   "summary": "",
+   "link": "http://www.asahi.com/articles/ASVCW31PVVCWOXIE02DM.html?ref=rss",
+   "source": "朝日新聞",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://imgopt.asahi.com/ogp/AS20261127003849_comm.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス　顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡",
+   "summary": "GMOペパボ株式会社の内部システムへの不正アクセスを通じて、「ロリポップ！レンタルサーバー」などの顧客情報が外部に持ち出されたことが判明した。同社が11月27日、公表した。一部顧客については、平文で保存していたパスワードも漏えいしたことが確",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2160136.html",
+   "source": "INTERNET Watch",
+   "kind": "article",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://internet.watch.impress.co.jp/img/iw/list/2160/136/lolipop.png",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "楽天 23時間取引対応を延期　12月予定の米国株【WBS】",
+   "summary": "楽天証券は、12月7日から予定していたアメリカ株の23時間取引への対応を延期すると発表しました。楽天証券は11月、外部からの不正アクセスにより、顧客の氏名や住所、証券口座の資産残高や年収などの情報が漏えいしたと発表していて、顧客に不安が広が",
+   "link": "https://www.youtube.com/watch?v=IFQr8dDwjZU",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i2.ytimg.com/vi/IFQr8dDwjZU/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日経新聞 540万件情報漏えい　外部サービスへの不正アクセス【WBS】",
+   "summary": "日本経済新聞社は27日、マーケティングに利用していた外部サービスが不正アクセスをうけ、およそ540万件の顧客情報が漏えいしたと発表しました。流出したのは、日経電子版の会員など、日経IDサービスの利用者の個人情報です。メールアドレスと電話番号",
+   "link": "https://www.youtube.com/watch?v=bP_b9BwtZ7U",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i3.ytimg.com/vi/bP_b9BwtZ7U/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "1週間ニュースまとめ 【2026年11月23日～27日】リビア沿岸でロシア軍艦撃沈／米トランプ政権が新関税案／フアン氏エヌビディアCEO復帰／楽天証券441万件の情報漏えい／卓球・石川佳純さん結婚ほか",
+   "summary": "▼今週話題の関連動画▼\nエヌビディア大幅反発で日本のAI半導体株はどう動く？中国規制やガバナンスの死角を徹底解説【野村証券・村山誠氏】（11月24日配信）\nhttps://txbiz.tv-tokyo.co.jp/original2/vod",
+   "link": "https://www.youtube.com/watch?v=KOUaZt_BdZc",
+   "source": "テレ東BIZ",
+   "kind": "video",
+   "categories": [
+    "pii"
+   ],
+   "image": "https://i4.ytimg.com/vi/KOUaZt_BdZc/hqdefault.jpg",
+   "count": 1,
+   "others": []
+  }
+ ]
+}

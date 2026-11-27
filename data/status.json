@@ -7,7 +7,7 @@
  {
   "name": "NHK 社会",
   "ok": true,
-  "items": 4
+  "items": 1
  },
  {
   "name": "朝日新聞",
@@ -32,12 +32,12 @@
  {
   "name": "ITmedia",
   "ok": true,
-  "items": 4
+  "items": 0
  },
  {
   "name": "INTERNET Watch",
   "ok": true,
-  "items": 0
+  "items": 1
  },
  {
   "name": "ANNnewsCH",
@@ -47,7 +47,7 @@
  {
   "name": "日テレNEWS",
   "ok": true,
-  "items": 3
+  "items": 0
  },
  {
   "name": "TBS NEWS DIG",
@@ -57,7 +57,7 @@
  {
   "name": "テレ東BIZ",
   "ok": true,
-  "items": 0
+  "items": 3
  },
  {
   "name": "FNNプライムオンライン",
